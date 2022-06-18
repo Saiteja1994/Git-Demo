@@ -1,0 +1,4 @@
+GIT is a version control system
+Git hub is a UI Source Code Manaegement of a GIT
+SVN is a cenetrlized revison control system
+GIT is a Distrubuted & De Centrelized revison control system
